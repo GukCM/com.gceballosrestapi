@@ -1,0 +1,5 @@
+com\example\com\gceballosrestapi\controllers\UsuarioController.class
+com\example\com\gceballosrestapi\repositories\UsuarioRepository.class
+com\example\com\gceballosrestapi\Application.class
+com\example\com\gceballosrestapi\models\UsuarioModel.class
+com\example\com\gceballosrestapi\services\UsuarioService.class
